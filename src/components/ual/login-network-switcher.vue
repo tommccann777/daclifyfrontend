@@ -153,6 +153,12 @@ export default defineComponent({
       menu_open: false,
       networks: [
         {
+          label: "Proton",
+          key: "proton",
+          icon: "img:statics/images/networks/proton.png",
+          msg: "active: beta version",
+        },
+        {
           label: "Telos",
           key: "telos",
           icon: "img:statics/images/networks/telos.png",
