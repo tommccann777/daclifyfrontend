@@ -1,4 +1,19 @@
 {
+    "proton":{
+        "groups_contract": "fdachub",
+        "system_token": {
+            "contract": "eosio.token",
+            "symbol": "XPR",
+            "precision": 4
+        },
+        "social":{
+            "github": "https://github.com/Animus-Labs-Ltd/daclifyfrontend",
+            "telegram": "https://t.me/daclify"
+        },
+        "api":{
+            "url": "https://testnet.protonchain.com"
+        }
+    },
     "telos":{
         "groups_contract": "dacs.master",
         "system_token": {
